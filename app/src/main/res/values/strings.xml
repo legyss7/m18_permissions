@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw18</string>
+    <string name="take_photo">Take photo</string>
+    <string name="preview">preview</string>
+    <string name="photo_container">photo_container</string>
+    <string name="delete_photo">Delete photos</string>
+</resources>
